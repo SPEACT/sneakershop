@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.product-image {
+    width: 200px;
+    height: 200px;
+}
+
+
+.box-product {
+    text-decoration: none;
+}
+
+.product-title {
+    font-size: 20px;
+    color: black;
+}
+
+.product-title:hover {
+    color: rgb(158, 60, 60);
+}
+
+.product-price {
+    font-size: 16px;
+    color: red;
+    font-weight: bold;
+}

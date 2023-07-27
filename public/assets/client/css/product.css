@@ -1,0 +1,29 @@
+.box-detail {
+    display: flex;
+    justify-content: space-around;
+}
+
+/* .product-image-detail {
+    width: 500px;
+    height: 500px;s
+} */
+
+
+
+.product-title-detail {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 29px;
+    color: black;
+}
+
+.product-price-detail {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #B22931;
+}
